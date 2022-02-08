@@ -3,4 +3,6 @@ The Telegram fun bot, which allows you to fight among chat membres. There are im
 
 https://t.me/war121bot 
 
+https://telegra.ph/war121-02-07 (readme gameplay)
+
 The project was interesting for a day, buy it requires much time to play the war game without pauses, so it is decided to inactivate the bot
